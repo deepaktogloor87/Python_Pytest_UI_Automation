@@ -1,0 +1,8 @@
+{
+  "environment" : "io-5601",
+  "return_object" : "Aggregate Group",
+  "aggregate_group_url": "/HardwareComponentModelGenericAggregateGroup/createAggregateGroup",
+  "tc_id_user_is_able_to_create_aggregate_group": "TC_UI_AG_0001",
+  "new_group": "Creating a new group for automation",
+  "tc_id_user_is_able_to_delete_aggregate_group": "TC_UI_AG_0002"
+}

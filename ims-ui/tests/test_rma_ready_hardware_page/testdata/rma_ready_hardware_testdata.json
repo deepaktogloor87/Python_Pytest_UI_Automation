@@ -1,0 +1,13 @@
+{
+  "environment": "stable",
+  "return_object": "RMA Ready Hardware",
+  "rma_ready_hardware_url": "Rma/rmaReadyHardware",
+  "test_serial_number_is_a_editable_field": "TC_UI_VSI_RMA_0001",
+  "test_location_dropbox_is_not_empty": "TC_UI_VSI_RMA_0002",
+  "test_hardware_function_dropbox_is_not_empty": "TC_UI_VSI_RMA_0003",
+  "test_rma_number_dropbox_is_not_empty": "TC_UI_VSI_RMA_0006",
+  "test_search_btn_is_enabled": "TC_UI_VSI_RMA_0004",
+  "test_assign_btn_is_enabled": "TC_UI_VSI_RMA_0005",
+  "test_rma_ready_hardware_list_table_is_displayed": "TC_UI_VSI_RMA_0007",
+  "test_selecting_50_in_displaying_check_box_displays_50_element_in_the_table": "TC_UI_VSI_RMA_0008"
+}

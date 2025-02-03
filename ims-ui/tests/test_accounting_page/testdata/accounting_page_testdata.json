@@ -1,0 +1,9 @@
+{
+  "environment" : "metal-5703",
+  "return_object" : "Accounting Type",
+  "accounting_page_url": "Accounting",
+  "tc_id_accounting_page_links_are_working_and_clickable":"TC_UI_AC_001",
+  "tc_id_number_of_links_present_in_accounting_page": "TC_UI_AC_002",
+  "no_of_links_to_use_under_accounting_page": "30"
+
+}

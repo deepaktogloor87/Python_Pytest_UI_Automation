@@ -1,0 +1,6 @@
+{
+   "environment" : "stable",
+   "return_object" : "Virtual View Page",
+   "virtual_view_url": "/Virtual/view/143810087",
+   "tc_id_reveal_the_virtual_view_guest_password": "TC_UI_VV_0001"
+ }

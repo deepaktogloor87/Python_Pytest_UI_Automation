@@ -1,0 +1,6 @@
+{
+  "environment": "stable",
+  "return_object": "Software Configuration",
+  "software_configuration_url": "/SoftwareConfiguration/index",
+  "tc_id_fragment_can_be_added_to_assigned_fragments_list": "TC_UI_SC_0001"
+}

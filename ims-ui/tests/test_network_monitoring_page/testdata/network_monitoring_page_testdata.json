@@ -1,0 +1,7 @@
+{
+  "environment": "stable",
+  "return_object": "Network Monitoring",
+  "network_monitoring_url": "/NetworkMonitoring",
+  "test_links_of_networking_monitoring_are_working_and_clickable": "TC_UI_VSI_NM_0001",
+  "test_no_of_links_on_the_page_is_5": "TC_UI_VSI_NM_0002"
+}

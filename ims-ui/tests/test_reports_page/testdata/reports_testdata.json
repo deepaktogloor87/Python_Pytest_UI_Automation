@@ -1,0 +1,15 @@
+{
+  "environment": "stable",
+  "return_object": "Reports",
+  "reports_url": "/Reports",
+  "test_links_of_accounting_tab_are_working_and_clickable": "TC_UI_VSI_RA_0001",
+  "test_links_of_sales_tab_are_working_and_clickable": "TC_UI_VSI_RA_0002",
+  "test_links_of_datacenter_tab_are_working_and_clickable": "TC_UI_VSI_RA_0003",
+  "test_links_of_tickets_tab_are_working_and_clickable": "TC_UI_VSI_RA_0004",
+  "test_links_of_misc_tab_are_working_and_clickable": "TC_UI_VSI_RA_0005",
+  "test_no_of_accounting_links_on_the_page_is_14": "TC_UI_VSI_RA_0006",
+  "test_no_of_sales_links_on_the_page_is_8": "TC_UI_VSI_RA_0007",
+  "test_no_of_datacenter_links_on_the_page_is_1" : "TC_UI_VSI_RA_0008",
+  "test_no_of_tickets_links_on_the_page_is_8": "TC_UI_VSI_RA_0009",
+  "test_no_of_misc_links_on_the_page_is_19": "TC_UI_VSI_RA_0010"
+}

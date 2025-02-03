@@ -1,0 +1,21 @@
+{
+  "environment": "stable",
+  "return_object": "Hardware Update",
+  "hardware_update_url": "/Hardware/update",
+  "hardware_id": "3154162",
+  "hardware_id_test_03": "1889914",
+  "maintenance_notes": "automation testing",
+  "redfish_enabled_server": "3448722",
+  "test08_hardware": "1333199",
+  "tc_id_storage_group_sn_is_displayed_and_editable_jbod_c": "TC_UI_HU_0001",
+  "tc_id_storage_group_wwn_is_displayed_and_editable_for_jbod_cc": "TC_UI_HU_0002",
+  "tc_id_maintenance_notes_can_be_updated_successfully": "TC_UI_HU_0003",
+  "tc_id_remote_management_control_link_is_present_for_redfish_enabled_hardware": "TC_UI_HU_0004",
+  "tc_id_there_are_2_tabs_for_redfish_enabled_server": "TC_UI_HU_0005",
+  "tc_id_redfish_server_can_be_powered_off_successfully": "TC_UI_HU_0006",
+  "tc_id_redfish_server_can_be_powered_on_successfully": "TC_UI_HU_0007",
+  "tc_id_uim_managed_flag_can_be_set_to_yes_vpcng_successfully": "TC_UI_HU_0008",
+  "tc_id_uim_managed_flag_can_be_set_to_undercloud_successfully": "TC_UI_HU_0009",
+  "tc_id_uim_managed_flag_can_be_set_to_fedramp_successfully": "TC_UI_HU_0010",
+  "tc_id_uim_managed_flag_can_be_set_to_no_successfully": "TC_UI_HU_0011"
+}

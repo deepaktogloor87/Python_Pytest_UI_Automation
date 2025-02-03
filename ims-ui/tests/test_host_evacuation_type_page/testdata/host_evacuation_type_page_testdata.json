@@ -1,0 +1,14 @@
+{
+  "environment" : "stable",
+  "return_object" : "Evacuation Type",
+  "tc_id_evacuation_page_create_ticket_checkbox_is_selected_and_form_is_displayed": "TC_UI_VSI_HET_0001",
+  "tc_id_evacuation_page_create_ticket_checkbox_is_unselected_and_form_is_not_displayed": "TC_UI_VSI_HET_0002",
+  "tc_id_evacuation_page_create_ticket_title_textbox_is_editable": "TC_UI_VSI_HET_0003",
+  "tc_id_evacuation_page_create_ticket_form_textbox_is_editable" : "TC_UI_VSI_HET_0004",
+  "tc_id_evacuation_page_ticket_has_proper_value_of_account_id_field" : "TC_UI_VSI_HET_0015",
+  "tc_id_evacuation_page_ticket_has_proper_company_field": "TC_UI_VSI_HET_0016",
+  "tc_id_evacuation_page_ticket_has_proper_value_of_group_field": "TC_UI_VSI_HET_0017",
+  "Host_evacuation_ticket_url": "/Ticket/ticketPreview/",
+  "Host_evacuation_choose_host_url": "/Virtual/chooseHostEvacuationType",
+  "Host_evacuation_host_id": "1455135"
+}

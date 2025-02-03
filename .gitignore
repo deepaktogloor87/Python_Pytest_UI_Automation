@@ -1,0 +1,27 @@
+# Apollo's framework ignore
+logs/*
+venev/
+*.log
+.pytest_cache/
+Tests/.pytest_cache/*
+Tests/assets/*
+Tests/*.html
+ims-ui/logs/*
+ims-ui/reports/*
+ims-ui/.pytest_cache/
+ims-ui/screenshots/*
+.gitignore/
+.pytest_cache/*
+geckodriver.log
+.idea/*
+.idea
+.DS_Store
+__pycache__/
+*.pyc
+/ims-ui/reports/
+/ims-ui/logs/
+/ims-ui/screenshots/
+/ims-ui/tests/.DS_Store
+ims-ui/.DS_Store
+/ims-ui/.DS_Store
+*/ims-ui/.DS_Store

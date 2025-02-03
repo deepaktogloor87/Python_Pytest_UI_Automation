@@ -1,0 +1,12 @@
+{
+  "environment" : "stable",
+  "return_object" : "Cancel Virtual Process Instance",
+  "test_cancel_virtual_process_instance_link_present_on_the_page": "TC_UI_VSI_CVPI_0001",
+  "test_cancel_virtual_process_instance_page_displays_proper_instruction_note": "TC_UI_VSI_CVPI_0002",
+  "test_info_of_process_instance_is_displayed_by_clicking_on_view_button": "TC_UI_VSI_CVPI_0003",
+  "test_providing_incorrect_process_id_gives_error": "TC_UI_VSI_CVPI_0004",
+  "test_cancel_button_is_displayed": "TC_UI_VSI_CVPI_0005",
+  "process_instance": "1602478935",
+  "incorrect_process_instance": "1602477934",
+  "cancel_virtual_process_url": "/DevelopmentVirtualTools/index"
+}

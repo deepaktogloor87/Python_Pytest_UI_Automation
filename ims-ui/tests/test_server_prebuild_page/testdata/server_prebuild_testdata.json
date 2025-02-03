@@ -1,0 +1,16 @@
+{
+  "environment": "stable",
+  "return_object": "Server Prebuild",
+  "server_prebuild_url": "/ServerPrebuild",
+  "test_hardware_id_field_is_enabled_and_editable": "TC_UI_VSI_SP_0001",
+  "test_base_server_id_field_is_enabled_and_editable": "TC_UI_VSI_SP_0002",
+  "test_softlayer_ticket_id_field_is_enabled_and_editable": "TC_UI_VSI_SP_0003",
+  "test_server_prebuild_job_base_server_id_field_is_enabled_and_editable": "TC_UI_VSI_SP_0004",
+  "test_server_prebuild_job_softlayer_ticket_id_field_is_enabled_and_editable": "TC_UI_VSI_SP_0005",
+  "test_spj_prebuild_job_id_is_enabled_and_editable": "TC_UI_VSI_SP_0006",
+  "test_spj_user_id_is_enabled_and_editable": "TC_UI_VSI_SP_0007",
+  "test_create_button_of_cpj_is_displayed_and_enabled": "TC_UI_VSI_SP_0008",
+  "test_reset_button_of_cpj_is_displayed_and_enabled": "TC_UI_VSI_SP_0009",
+  "test_search_button_of_spj_is_displayed_and_enabled": "TC_UI_VSI_SP_0010",
+  "test_reset_button_of_spj_is_displayed_and_enabled": "TC_UI_VSI_SP_0011"
+}

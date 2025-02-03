@@ -1,0 +1,14 @@
+{
+  "environment" : "stable",
+  "return_object" : "Data Verification Tool",
+  "test_run_address_test_button_is_displayed" : "TC_UI_VSI_DVT_0001",
+  "test_run_location_test_button_is_displayed" : "TC_UI_VSI_DVT_0002",
+  "test_run_pools_test_button_is_displayed": "TC_UI_VSI_DVT_0003",
+  "test_run_power_test_button_is_displayed": "TC_UI_VSI_DVT_0004",
+  "test_run_checkin_test_button_is_displayed": "TC_UI_VSI_DVT_0005",
+  "test_run_scanin_test_button_is_displayed": "TC_UI_VSI_DVT_0006",
+  "test_datacenter_to_verify_checkbox_options_are_displayed_properly": "TC_UI_VSI_DVT_0007",
+  "test_run_all_tests_button_is_displayed": "TC_UI_VSI_DVT_0008",
+  "test_export_test_results_button_is_displayed": "TC_UI_VSI_DVT_0009",
+  "data_verification_tool_url": "/DatacenterVerificationTool"
+}

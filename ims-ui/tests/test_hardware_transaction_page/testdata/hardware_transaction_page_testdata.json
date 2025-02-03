@@ -1,0 +1,7 @@
+{
+  "environment": "stable",
+  "return_object": "Hardware Transaction",
+  "hardware_transaction_url": "/HardwareTransaction",
+  "test_links_under_transaction_page_are_accessible": "TC_UI_VSI_HT_0001",
+  "test_total_no_of_links_under_transaction_page_is_8": "TC_UI_VSI_HT_0002"
+}

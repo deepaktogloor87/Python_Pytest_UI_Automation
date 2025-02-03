@@ -1,0 +1,7 @@
+{
+  "environment": "stable",
+  "return_object": "Network Firewall",
+  "network_firewall_url": "/NetworkFirewall",
+  "test_links_under_network_firewall_page_are_accessible": "TC_UI_VSI_NF_0001",
+  "test_no_of_links_on_the_page_is_13": "TC_UI_VSI_NF_0002"
+}

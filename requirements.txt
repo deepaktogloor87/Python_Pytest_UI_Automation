@@ -1,0 +1,17 @@
+# Selenium is the core package for browser automation
+selenium==4.11.2
+
+# pytest is a framework that makes it easy to write simple and scalable test cases
+pytest==7.4.0
+
+# webdriver-manager helps manage the driver binaries required for selenium to interface with different browsers
+webdriver-manager==4.0.0
+
+# pytest-html is a plugin for pytest that generates a static HTML report of test results
+pytest-html==3.2.0
+
+# pytest-xdist is a plugin for pytest that allows for distributed testing and parallel test execution
+pytest-xdist==3.3.1
+
+# allure-pytest is a plugin for pytest that allows to generate reports
+allure-pytest==2.13.2

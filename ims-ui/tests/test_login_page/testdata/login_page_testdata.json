@@ -1,0 +1,9 @@
+{
+  "tc_id_user_login_session": "TC_LM_0001",
+  "tc_id_user_logout_session": "TC_LM_0002",
+  "username": "apratheek",
+  "password": "",
+  "page_title_qa" : "SoftLayer - Ticket Search",
+  "logout_text" : "You have logged out of the SoftLayer Internal Management Portal.",
+  "return_object" : "None"
+}

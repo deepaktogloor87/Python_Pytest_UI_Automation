@@ -1,0 +1,19 @@
+{
+  "environment": "stable",
+  "return_object": "Service Inventory Report",
+  "service_inventory_report_url": "/ServiceInventoryReport",
+  "test_account_id_is_an_editable_field": "TC_UI_VSI_SIR_0001",
+  "test_company_name_is_an_editable_field": "TC_UI_VSI_SIR_0002",
+  "test_hostname_is_an_editable_field": "TC_UI_VSI_SIR_0003",
+  "test_ip_address_is_an_editable_field": "TC_UI_VSI_SIR_0004",
+  "test_evault_username_is_an_editable_field": "TC_UI_VSI_SIR_0005",
+  "test_company_name_checkbox_has_len_4": "TC_UI_VSI_SIR_0006",
+  "test_hostname_checkbox_has_len_4":"TC_UI_VSI_SIR_0007",
+  "test_ip_addr_checkbox_has_len_4": "TC_UI_VSI_SIR_0008",
+  "test_evault_username_checkbox_has_len_4": "TC_UI_VSI_SIR_0009",
+  "test_show_with_evault_checkbox_has_len_2": "TC_UI_VSI_SIR_0010",
+  "test_object_type_checkbox_has_len_2": "TC_UI_VSI_SIR_0011",
+  "test_object_status_checkbox_has_len_2": "TC_UI_VSI_SIR_0012",
+  "test_managed_server_checkbox_has_len_1": "TC_UI_VSI_SIR_0013",
+  "test_search_button_is_displayed_and_enabled": "TC_UI_VSI_SIR_0014"
+}

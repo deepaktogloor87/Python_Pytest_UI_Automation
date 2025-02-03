@@ -1,0 +1,10 @@
+{
+  "environment" : "stable",
+  "return_object" : "Datacenter Checklist Tool",
+  "data_verification_tool_url": "/DatacenterChecklistTool",
+  "test_start_button_is_displayed_and_enabled": "TC_UI_VSI_DCCT_0001",
+  "test_select_datacenter_dropdown_options_are_displayed_properly": "TC_UI_VSI_DCCT_0002",
+  "test_datacenter_checklist_heading_are_displayed_properly": "TC_UI_VSI_DCCT_0003",
+  "test_all_datacenter_rows_are_displayed_properly": "TC_UI_VSI_DCCT_0004",
+  "test_legend_table_instructions_displayed_properly": "TC_UI_VSI_DCCT_0005"
+}

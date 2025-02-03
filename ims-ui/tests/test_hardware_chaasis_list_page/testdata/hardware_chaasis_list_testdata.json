@@ -1,0 +1,12 @@
+{
+  "environment": "stable",
+  "return_object": "Hardware Chaasis List",
+  "hardware_chaasis_list_url": "HardwareChassis/hardwareChassisList",
+  "hardware_configuration_template_url": "HardwareConfigurationTemplate/template",
+  "chassis": "ADVA 16/DR/PTP SC/IHU FSP 3000 / power",
+  "template_description": "PHP 8 Testing",
+  "PO": "4700823802",
+  "tc_id_set_riser_card_capacity_to_any_value": "TC_UI_HCL_0001",
+  "tc_id_ensure_that_2_riser_card_row_is_created": "TC_UI_HCL_0002",
+  "test_hardware_template_can_be_saved_without_errors": "TC_UI_HCL_0003"
+}

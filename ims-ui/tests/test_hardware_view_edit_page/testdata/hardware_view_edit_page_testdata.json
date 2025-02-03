@@ -1,0 +1,6 @@
+{
+   "environment" : "stable",
+   "return_object" : "Hardware View Edit Page",
+   "hardware_view_url": "/Hardware/view/1773147",
+   "tc_id_test_reveal_the_hardware_view_guest_password": "TC_UI_HVE_0001"
+ }

@@ -1,0 +1,9 @@
+{
+  "environment" : "stable",
+  "return_object" : "Hardware",
+  "hardware_page_url": "/Hardware",
+  "test_hardware_page_links_under_find_are_working_and_clickable": "TC_UI_HD_0001",
+  "test_hardware_page_links_under_hardware_heading_are_working_and_clickable": "TC_UI_HD_0002",
+  "test_total_links_under_find_heading_is_8": "TC_UI_HD_0003",
+  "test_total_links_under_hardware_heading_is_24": "TC_UI_HD_0004"
+}
